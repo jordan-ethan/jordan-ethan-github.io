@@ -22,11 +22,11 @@ repository               : "jordan-ethan/jordan-ethan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : ""
+  location         : "Saarbrücken,DE"
+  employer         : "CISPA Helmholtz Center for Information Security"
   uri              : # URL
   email            : "jordan.ethan.crypto@gmail.com" 
 
