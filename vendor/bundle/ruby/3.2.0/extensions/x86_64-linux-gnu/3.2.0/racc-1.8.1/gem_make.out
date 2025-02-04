@@ -1,0 +1,18 @@
+current directory: /home/jordane/Desktop/jordan-ethan.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/jordane/Desktop/jordan-ethan.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250107-8854-10442c sitelibdir\=./.gem.20250107-8854-10442c clean
+
+current directory: /home/jordane/Desktop/jordan-ethan.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250107-8854-10442c sitelibdir\=./.gem.20250107-8854-10442c
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/jordane/Desktop/jordan-ethan.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250107-8854-10442c sitelibdir\=./.gem.20250107-8854-10442c install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250107-8854-10442c/racc
+
+current directory: /home/jordane/Desktop/jordan-ethan.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250107-8854-10442c sitelibdir\=./.gem.20250107-8854-10442c clean
